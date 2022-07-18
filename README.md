@@ -71,4 +71,4 @@ align="left"> <a href="https://www.instagram.com/jashan110/" target="blank"><img
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=jashanwarraich&show_icons=true&locale=en&theme=github_dark" alt="jashanwarraich" />
 
-<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=jashanwarraich&theme=holi-theme" alt="jashanwarraich" /></p>
+<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=jashanwarraich&theme=github-dark-blue" alt="jashanwarraich" /></p>
