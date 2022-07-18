@@ -67,8 +67,24 @@ align="left"> <a href="https://www.instagram.com/jashan110/" target="blank"><img
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
 </p>
 <br>
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=jashanwarraich&show_icons=true&locale=en&langs_count=10&exclude_repo=%20Tries-Implemented&theme=github_dark" alt="jashanwarraich" />
+<p>
+<p> img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=jashanwarraich&show_icons=true&locale=en&langs_count=10&exclude_repo=%20Tries-Implemented&theme=github_dark" alt="jashanwarraich" />&emsp;</p>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=jashanwarraich&show_icons=true&locale=en&theme=github_dark" alt="jashanwarraich" />
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=jashanwarraich&show_icons=true&locale=en&theme=github_dark" alt="jashanwarraich" /></p>
 
-<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=jashanwarraich&theme=github-dark-blue" alt="jashanwarraich" /></p>
+<p>&emsp;<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=jashanwarraich&theme=github-dark-blue" alt="jashanwarraich" /></p>
+</p>
+<!-- 
+<table align="center">
+
+  <tr>
+    <td><img align="center" src="https://github-readme-stats.vercel.app/api?username=jashanwarraich&show_icons=true&locale=en&theme=github_dark" alt="jashanwarraich" /></td>
+    <td><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jashanwarraich&show_icons=true&locale=en&langs_count=10&exclude_repo=%20Tries-Implemented&theme=github_dark" alt="jashanwarraich" /></td>
+
+  </tr>
+  
+  <tr>
+    <td><img align=align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jashanwarraich&theme=github-dark-blue" alt="jashanwarraich" /></td>
+
+  </tr>
+</table> -->
