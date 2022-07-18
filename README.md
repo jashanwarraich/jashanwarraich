@@ -1,4 +1,5 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)]
+![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
+<!-- <iframe src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">via GIPHY</a></p> -->
 <h1 align="center">Hi 👋, I'm Jashan Warraich</h1>
 <h3 align="center">Software Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
@@ -6,12 +7,15 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jashanwarraich&label=Profile%20views&color=0e75b6&style=flat" alt="jashanwarraich" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jashanwarraich" alt="jashanwarraich" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/warraich_jashan" target="blank"><img src="https://img.shields.io/twitter/follow/warraich_jashan?logo=twitter&style=for-the-badge" alt="warraich_jashan" /></a> </p>
+<!-- 
+<p align="left"> - 🤝 Lets's connect <a href="https://www.linkedin.com/in/jashanwarraich/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="jashanwarraich" /></a> 
+align="left"> <a href="https://www.instagram.com/jashan110/" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="jashanwarraich" /></a> </p> -->
 
 - 🔭 I’m currently working with **Gamma Coder**
 
 - 👯 I’m looking to collaborate on [My Cart](https://mern-ecommerce-jashan.herokuapp.com/)
+
+- 👨‍💻 Check out one of my recent projects [Searcher](https://autosearcher.netlify.app/search)
 
 - 💬 Ask me about **DSA in C++, ReactJS**
 
