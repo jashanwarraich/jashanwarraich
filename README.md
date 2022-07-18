@@ -50,7 +50,8 @@ align="left"> <a href="https://www.instagram.com/jashan110/" target="blank"><img
 <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> &emsp;
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> &emsp;
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a><br>
-
+</p>
+<p align="center"> 
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>&emsp;
 <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> &emsp;
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> &emsp;
@@ -63,10 +64,11 @@ align="left"> <a href="https://www.instagram.com/jashan110/" target="blank"><img
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> &emsp;
 <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> &emsp;
 <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> &emsp;
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
+</p>
+<br>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jashanwarraich&show_icons=true&locale=en&langs_count=10&exclude_repo=%20Tries-Implemented" alt="jashanwarraich" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jashanwarraich&show_icons=true&locale=en&layout=compact" alt="jashanwarraich" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jashanwarraich&show_icons=true&locale=en" alt="jashanwarraich" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=jashanwarraich&show_icons=true&locale=en" alt="jashanwarraich" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jashanwarraich&" alt="jashanwarraich" /></p>
