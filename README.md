@@ -25,7 +25,7 @@ align="left"> <a href="https://www.instagram.com/jashan110/" target="blank"><img
 
 <h3 align="center">Connect with me</h3>
 <p align="center">
-<a href="https://twitter.com/warraich_jashan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="warraich_jashan" height="30" width="40" /></a>&emsp;&emsp;
+<a href="https://twitter.com/warraich_jashan" target="blank_"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="warraich_jashan" height="30" width="40" /></a>&emsp;&emsp;
 <a href="https://linkedin.com/in/jashanwarraich" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jashanwarraich" height="30" width="40" /></a>&emsp;&emsp;
 <a href="https://stackoverflow.com/users/15189465/jashan-warraich" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="15189465/jashan-warraich" height="30" width="40" /></a>&emsp;&emsp;
 <a href="https://fb.com/jashan2220" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jashan2220" height="30" width="40" /></a>&emsp;&emsp;
