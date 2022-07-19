@@ -68,11 +68,11 @@ align="left"> <a href="https://www.instagram.com/jashan110/" target="blank"><img
 </p>
 <br>
 <p>
-<p> <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=jashanwarraich&show_icons=true&locale=en&langs_count=10&exclude_repo=%20Tries-Implemented&theme=github_dark" alt="jashanwarraich" />&emsp;</p>
+<p> <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=jashanwarraich&show_icons=true&locale=en&langs_count=10&exclude_repo=%20Tries-Implemented&theme=github_dark" alt="jashanwarraich" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=jashanwarraich&show_icons=true&locale=en&theme=github_dark" alt="jashanwarraich" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=jashanwarraich&show_icons=true&locale=en&theme=github_dark" alt="jashanwarraich" /><p><br><br><br><br><br><br><br><br></p></p>
 
-<p>&emsp;<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=jashanwarraich&theme=github-dark-blue" alt="jashanwarraich" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=jashanwarraich&theme=github-dark-blue" alt="jashanwarraich" /></p>
 </p>
 <!-- 
 <table align="center">
