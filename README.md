@@ -31,8 +31,9 @@ align="left"> <a href="https://www.instagram.com/jashan110/" target="blank"><img
 <a href="https://fb.com/jashan2220" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jashan2220" height="30" width="40" /></a>&emsp;&emsp;
 <a href="https://instagram.com/jashan110" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jashan110" height="30" width="40" /></a>&emsp;&emsp;
 <a href="https://www.hackerrank.com/jashanwarraich" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="jashanwarraich" height="30" width="40" /></a>&emsp;&emsp;
-<a href="https://www.leetcode.com/jashanwarraich" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jashanwarraich" height="30" width="40" /></a>&emsp;&emsp;
-<a href="https://discord.gg/Jashan#8983" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Jashan#8983" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/jashanwarraich" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jashanwarraich" height="30" width="40" /></a>
+<!--   &emsp;&emsp; -->
+<!-- <a href="https://discord.gg/Jashan#8983" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Jashan#8983" height="30" width="40" /></a> -->
 </p>
 
 <h3 align="center">Languages and Tools</h3>
