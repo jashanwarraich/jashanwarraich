@@ -21,7 +21,7 @@ align="left"> <a href="https://www.instagram.com/jashan110/" target="blank"><img
 
 - 📫 How to reach me **wjashan2220@gmail.com**
 
-- 📄 Know about my experiences [https://bit.ly/jashan_resume](https://bit.ly/jashan_resume)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1kqTHuigFTKEz-crayZXxSnP3lX041xoI/view?usp=sharing)
 
 <h3 align="center">Connect with me</h3>
 <p align="center">
