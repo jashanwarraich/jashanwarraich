@@ -86,6 +86,7 @@ align="left"> <a href="https://www.instagram.com/jashan110/" target="blank"><img
   
   <tr>
     <td><img align=align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jashanwarraich&theme=github-dark-blue" alt="jashanwarraich" /></td>
-
+   
+   
   </tr>
 </table> -->
