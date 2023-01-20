@@ -11,7 +11,7 @@
 <p align="left"> - 🤝 Lets's connect <a href="https://www.linkedin.com/in/jashanwarraich/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="jashanwarraich" /></a> 
 align="left"> <a href="https://www.instagram.com/jashan110/" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="jashanwarraich" /></a> </p> -->
 
-- 🔭 I’m currently working with **Gamma Coder**
+- 🔭 I’m currently working with **Juniper Networks**
 
 - 👯 I’m looking to collaborate on [My Cart](https://mern-ecommerce-jashan.herokuapp.com/)
 
@@ -21,7 +21,7 @@ align="left"> <a href="https://www.instagram.com/jashan110/" target="blank"><img
 
 - 📫 How to reach me **wjashan2220@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1H6JkLmoEN1LFHuOOWyx9LhUHb777iOJy/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/168gtSAjoh5K-0aRKqde1d3L7nxo1vqC0/view?usp=sharing)
 
 <h3 align="center">Connect with me</h3>
 <p align="center">
